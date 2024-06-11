@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-abdalla-alhag",
+  "version": "1.0.0",
+  "description": "npm test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallaAlhag/npm-test.git"
+  },
+  "author": "abdalla alhag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdallaAlhag/npm-test/issues"
+  },
+  "homepage": "https://github.com/AbdallaAlhag/npm-test#readme"
+}
